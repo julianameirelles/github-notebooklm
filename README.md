@@ -7,7 +7,7 @@ Fontes:
 https://www.dio.me/articles/guia-basico-para-iniciantes-no-github <br />
 https://docs.github.com/pt/get-started/start-your-journey/creating-an-account-on-github <br />
 https://docs.github.com/pt/desktop/overview/creating-your-first-repository-using-github-desktop <br />
-https://www.hostgator.com.br/blog/github-compartilhamento-de-projetos/? />gad_source=1&gad_campaignid=22134387764&gbraid=0AAAAAD5rgDYuP7TBMFkPT_uch6IqDAS8h&gclid=CjwKCAjw1tLOBhAMEiwAiPkRHp0y5d7Si64IH40EtlnuOY3nTUzrk2dbbVipYOsDti4t6lWE8N-8YxoCvDEQAvD_BwE <br />
+https://www.hostgator.com.br/blog/github-compartilhamento-de-projetos/?gad_source=1&gad_campaignid=22134387764&gbraid=0AAAAAD5rgDYuP7TBMFkPT_uch6IqDAS8h&gclid=CjwKCAjw1tLOBhAMEiwAiPkRHp0y5d7Si64IH40EtlnuOY3nTUzrk2dbbVipYOsDti4t6lWE8N-8YxoCvDEQAvD_BwE <br />
 https://www.youtube.com/watch?v=ap4mKh1yulg <br />
 https://www.youtube.com/watch?v=BUGZZaChiYw <br />
 
